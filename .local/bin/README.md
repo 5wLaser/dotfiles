@@ -1,3 +1,18 @@
+# 5wock
+Screen locker wrapper.
+
+Dependencies:
+- alock - https://github.com/arkq/alock
+- xss-lock
+- kitty / alacritty
+- cli-visualizer
+
+`5wock` to lock, `5wock warn` to sleep for XORG_SCREENSAVER_CYCLE seconds and hang.
+
+If you have that music visualizer, it will be displayed.
+
+
+
 # basicrop
 Basic cropping script.
 
