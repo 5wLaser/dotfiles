@@ -1,4 +1,4 @@
-# 5wock
+# apock
 Screen locker wrapper.
 
 Dependencies:
